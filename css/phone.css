@@ -1,0 +1,229 @@
+.happy-client{
+    height: auto;
+}
+.Pricing {
+    height: auto;
+}
+
+
+@media(max-width:1200px){
+    .box {
+        height: 470px;
+    }
+}
+@media(max-width:992px){
+    .card-second{
+        transform: translateY(0px);
+        margin: 30px 0px;
+    }
+    .nav-item{
+        text-align: center;
+        
+    }
+    .box{
+        height: 580px;
+    }
+    .contactus {
+        height: auto;
+        
+    }
+    .header{
+        height: 500px;
+    }
+}
+@media(max-width:767px){
+    .links-1{
+        text-align: left!important;
+    }
+    .footer-div{
+        margin: 30px 0px;
+    }
+    .box{
+        height: auto;
+    }
+}
+
+
+@media(max-width:576px){
+    .serviceoffers {
+        padding: 30px 10px;
+    }
+
+    .offer-service{
+    
+        width: 75px;
+    }
+    
+    .offer-service-4{
+        width: 80px;
+    }
+    .text--1 h2{
+        font-size: 1.5rem;
+    }
+    .text--1 p{
+        font-size: 0.8rem;
+    }
+    .container h1{
+        font-size: 1.9rem;
+    }
+    .container p{
+        font-size: 0.9rem;
+    }
+}
+
+@media(max-width:650px){
+    .center-div h1{
+        font-size: 2.2rem;
+    }
+    .center-div p{
+        font-size: 0.9rem;
+    }
+    .center-div a{
+        font-size: 0.9rem;
+    }
+}
+@media(max-width:570px){
+    .center-div h1{
+        font-size: 2.0rem;
+    }
+    .center-div p{
+        font-size: 0.8rem;
+    }
+    .center-div a{
+        font-size: 0.8rem;
+    }
+}
+@media(max-width:450px){
+    .center-div h1{
+        font-size: 1.8rem;
+    }
+    .center-div p{
+        font-size: 0.7rem;
+    }
+    .center-div a{
+        font-size: 0.7rem;
+    }
+}
+@media(max-width:450px){
+    .center-div h1{
+        font-size: 1.6rem;
+    }
+    .center-div p{
+        font-size: 0.7rem;
+    }
+    .center-div a{
+        font-size: 0.7rem;
+    }
+}
+@media(max-width:397px){
+    .center-div h1{
+        font-size: 1.4rem;
+    }
+    .center-div p{
+        font-size: 0.6rem;
+    }
+    .center-div a{
+        font-size: 0.6rem;
+    }
+}
+@media(max-width:340px){
+    .center-div h1{
+        padding-top: 400px 0px;
+        font-size: 1.0rem;
+    }
+    .center-div p{
+        font-size: 0.6rem;
+    }
+    .center-div a{
+        font-size: 0.6rem;
+    }
+}
+@media(max-width:420px){
+    .serviceoffers {
+        padding: 30px 15px;
+    }
+
+    .offer-service{
+    
+        width: 65px;
+    }
+    
+    .offer-service-4{
+        width: 70px;
+    }
+    .text--1 h2{
+        font-size: 1.4rem;
+    }
+    .text--1 p{
+        font-size: 0.7rem;
+    }
+    .container h1{
+        font-size: 1.8rem;
+    }
+    .container p{
+        font-size: 0.8rem;
+    }
+}
+
+@media(max-width:359px){
+    .card-body{
+        height: auto!important;
+
+    }
+    .card{
+        height: auto !important;
+    }
+}
+
+@media(max-width:420px){
+    .serviceoffers {
+        padding: 30px 18px;
+    }
+
+    .offer-service{
+    
+        width: 55px;
+    }
+    
+    .offer-service-4{
+        width: 60px;
+    }
+    .text--1 h2{
+        font-size: 1.3rem;
+    }
+    .text--1 p{
+        font-size: 0.6rem;
+    }
+    .container h1{
+        font-size: 1.7rem;
+    }
+    .container p{
+        font-size: 0.9rem;
+    }
+}
+@media(max-width:420px){
+    .serviceoffers {
+        padding: 30px 20px;
+    }
+
+    .offer-service{
+    
+        width: 40px;
+    }
+    
+    .offer-service-4{
+        width: 45px;
+    }
+    .text--1 h2{
+        font-size: 1.1rem;
+    }
+    .text--1 p{
+        font-size: 0.4rem;
+    }
+    .container h1{
+        font-size: 1.5rem;
+    }
+    .container p{
+        font-size: 0.9rem;
+    }
+}
